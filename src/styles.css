@@ -1,0 +1,13 @@
+:root {
+  color: #1c3128;
+  background: #f3ecdf;
+  font-family: Georgia, 'Times New Roman', serif;
+}
+
+body {
+  margin: 0;
+}
+
+.shell {
+  padding: 2rem;
+}
